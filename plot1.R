@@ -1,4 +1,4 @@
-# Load data
+# Read data
 #source('OrganizeInputData.R')
 
 d <- readRDS("power.rds")
